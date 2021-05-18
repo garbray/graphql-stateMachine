@@ -10,9 +10,8 @@
     "noUnusedParameters": true,
     "noImplicitReturns": true,
     "declaration": true,
-    "skipLibCheck": true
+    "skipLibCheck": true,
+    "esModuleInterop": true
   },
-  "exclude": [
-    "**/node_modules/**","**/__tests__/**"
-  ]
+  "exclude": ["**/node_modules/**", "**/__tests__/**"]
 }
